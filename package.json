@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "ipfs-unixfs-importer": "^9.0.6",
+    "ipfs-unixfs-importer": "^9.0.7",
     "multiformats": "^9.5.2"
   },
   "devDependencies": {
